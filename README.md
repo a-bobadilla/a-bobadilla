@@ -7,7 +7,7 @@ As a **Mechatronics Engineer**, I have developed skills in various fields, rangi
 ### 🚀 Technologies & Skills
 
 #### **Programming & Core Tools**
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,django,flask,selenium,pytorch,tensorflow,linux,git,arduino)](https://github.com/a-bobadilla)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,django,flask,selenium,pytorch,tensorflow,opencv,linux,git,arduino,raspberrypi,latex,vscode)](https://github.com/a-bobadilla)
 
 #### **Frameworks & Specialized Languages**
 [![Flet](https://img.shields.io/badge/Flet-00ADEE?style=for-the-badge&logo=flutter&logoColor=white)](https://flet.dev/)
@@ -19,8 +19,6 @@ As a **Mechatronics Engineer**, I have developed skills in various fields, rangi
 [![Gcode](https://img.shields.io/badge/Gcode-000000?style=for-the-badge&logo=3d-systems&logoColor=white)](https://en.wikipedia.org/wiki/G-code)
 
 #### **Engineering Tools & Software**
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![EasyEDA](https://img.shields.io/badge/EasyEDA-2E8B57?style=for-the-badge&logo=pcbway&logoColor=white)](https://easyeda.com/)
 [![MPLAB X](https://img.shields.io/badge/MPLAB%20X-0054A4?style=for-the-badge&logo=microchip&logoColor=white)](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
 [![TIA Portal](https://img.shields.io/badge/TIA_Portal-00507D?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/global/en/products/automation/topic-areas/tia.html)
