@@ -30,6 +30,7 @@ As a **Mechatronics Engineer**, I have developed skills in various fields, rangi
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F34B7D?style=flat&logo=platformio&logoColor=white)
+![MPLAB XC8](https://img.shields.io/badge/MPLAB%20XC8-0054A4?style=flat&logo=microchip&logoColor=white)
 ![TIA Portal](https://img.shields.io/badge/TIA_Portal-00507D?style=flat&logo=siemens&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F28?style=flat&logo=solidworks&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=flat&logo=autodesk&logoColor=white)
