@@ -1,11 +1,12 @@
 # Hi! I'm Ariel 👋
 
-As a Mechatronics Engineer, I have developed skills in various fields, ranging from software development and data science to industrial automation and mechanical design.
+As a **Mechatronics Engineer**, I have developed skills in various fields, ranging from software development and data science to industrial automation and mechanical design.
+
 ---
 
-### 🚀 Tecnologías y Lenguajes
+### 🚀 Technologies & Skills
 
-#### **Lenguajes**
+#### **Languages**
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -14,7 +15,7 @@ As a Mechatronics Engineer, I have developed skills in various fields, ranging f
 ![KRL](https://img.shields.io/badge/KUKA_KRL-FF5733?style=flat&logo=kuka&logoColor=white)
 ![Gcode](https://img.shields.io/badge/Gcode-000000?style=flat&logo=3d-systems&logoColor=white)
 
-#### **Frameworks y Librerías**
+#### **Frameworks & Libraries**
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=flat&logo=flask&logoColor=white)
 ![NodeRed](https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=node-red&logoColor=white)
@@ -23,7 +24,7 @@ As a Mechatronics Engineer, I have developed skills in various fields, ranging f
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
-#### **Herramientas y Software**
+#### **Tools & Software**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
@@ -34,13 +35,13 @@ As a Mechatronics Engineer, I have developed skills in various fields, ranging f
 
 ---
 
-### ☕ Apoyo y Contacto
-Si te gusta mi trabajo o te ha servido de ayuda, puedes apoyarme aquí:
+### ☕ Support & Contact
+If you like my work or find it helpful, feel free to support me here:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/coco.xor)
 
 ---
 
-### 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=radical)
+### 📊 GitHub Stats
+![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-bobadilla&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-bobadilla&layout=compact&theme=radical)
